@@ -392,6 +392,9 @@
   .bg-\[\#7d806aff\] {
     background-color: #7d806aff;
   }
+  .bg-\[\#DEE2BD\] {
+    background-color: #DEE2BD;
+  }
   .bg-\[\#EEF0DC\] {
     background-color: #EEF0DC;
   }
@@ -436,6 +439,18 @@
   }
   .pl-15 {
     padding-left: calc(var(--spacing) * 15);
+  }
+  .pl-120 {
+    padding-left: calc(var(--spacing) * 120);
+  }
+  .pl-125 {
+    padding-left: calc(var(--spacing) * 125);
+  }
+  .pl-150 {
+    padding-left: calc(var(--spacing) * 150);
+  }
+  .pl-1250 {
+    padding-left: calc(var(--spacing) * 1250);
   }
   .font-mono {
     font-family: var(--font-mono);
